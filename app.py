@@ -13,7 +13,9 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 # Load dataset
-df = pd.read_csv("/content/canada_per_capita_income.csv")
+from pathlib import Path
+
+df = pd.read_csv(Path(__file__).parent / "canada_per_capita_income.csv")
 
 # Prepare data
 X = df[['year']]
