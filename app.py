@@ -122,7 +122,7 @@ This project predicts Canada's Per Capita Income using a Linear Regression model
 st.sidebar.success("Made with ❤️ using Python")
 st.sidebar.title("My Portfolio")
 
-st.markdown("""
+st.sidebar.markdown("""
 ### 👋 About Me
 
 **Name:** Prashant Gupta
