@@ -120,7 +120,7 @@ This project predicts Canada's Per Capita Income using a Linear Regression model
 """)
 
 st.sidebar.success("Made with ❤️ using Python")
-st.title("My Portfolio")
+st.sidebar.title("My Portfolio")
 
 st.markdown("""
 ### 👋 About Me
