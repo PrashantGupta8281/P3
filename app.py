@@ -127,9 +127,9 @@ st.sidebar.markdown("""
 
 **Name:** Prashant Gupta
 
-🔗 **LinkedIn:** [PrashantGupta](https://www.linkedin.com/in/prashant-gupta-012320389?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/prashant-gupta-012320389?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-💻 **GitHub:** [PrashantGupta](https://github.com/PrashantGupta8281/AI-ML_Summer_Internship)
+💻 **GitHub:** [Click Here](https://github.com/PrashantGupta8281/AI-ML_Summer_Internship)
 """)
 
 # ---------------- Statistics ----------------
